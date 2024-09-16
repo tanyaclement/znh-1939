@@ -1,0 +1,25 @@
+{
+  "audiovisual_files": {
+    "637a227a-aeec-4cbd-8178-aeb0d9826c67": {
+      "label": "S1576 ",
+      "is_offline": false,
+      "file_url": " T86-245"
+    }
+  },
+  "auto_generate_web_page": true,
+  "citation": "https://ia801304.us.archive.org/11/items/WPA_1939_Jacksonville_Halpert/T86-245.mp3",
+  "item_type": "Audio",
+  "label": "Field Recordings T86-245",
+  "description": [
+    {
+      "text": "WPA field recordings in Jacksonville (1939 recording expedition: Herbert Halpert). 1939-06-18. State Archives of Florida, Florida Memory. Accessed 31 Aug. 2024."
+    },
+    {
+      "text": ""
+    }
+  ],
+  "created_at": "2024-09-16T23:22:07.129Z",
+  "created_by": "tanyaclement",
+  "updated_at": "2024-09-16T23:22:07.129Z",
+  "updated_by": "tanyaclement"
+}
