@@ -1,21 +1,26 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "tanyaclement",
+    "title": "Zora Neale Hurston’s WPA field recordings in Jacksonville, FL (1939)",
+    "description": "Zora Neale Hurston’s WPA field recordings in Jacksonville, FL (1939)",
+    "language": "en",
+    "slug": "znh-1939",
+    "creator": "tanyaclement",
+    "authors": "Tanya Clement",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2024-09-16T23:15:33.267Z",
+    "updated_at": "2024-09-16T23:15:33.267Z"
   }
 }
