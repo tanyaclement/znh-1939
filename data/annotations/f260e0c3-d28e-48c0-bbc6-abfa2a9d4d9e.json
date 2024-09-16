@@ -1,5 +1,3387 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 52,
+      "end_time": 60,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[Inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "056db200-bbe6-4cf5-af9c-3f4d7322e7b1"
+    },
+    {
+      "start_time": 346,
+      "end_time": 359,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[Inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e2f27fc0-5dd1-40d3-887a-2d0abd3867d1"
+    },
+    {
+      "start_time": 943,
+      "end_time": 949,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[Inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ec3237cb-ca30-4d2e-a449-94c510fa3136"
+    },
+    {
+      "start_time": 1085,
+      "end_time": 1085,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Alright."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "cafd2964-6855-499a-8374-820b99f4a6d7"
+    },
+    {
+      "start_time": 1231,
+      "end_time": 1232,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Alright. Let's play."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ea5c78d9-05e1-4af9-adef-b85017ae6068"
+    },
+    {
+      "start_time": 1678,
+      "end_time": 1679,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Alright."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7732e8c1-12ce-4c8b-a845-dd63fc1c9eaf"
+    },
+    {
+      "start_time": 1979,
+      "end_time": 1979,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Alright."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8598c8f3-8ce1-40a2-a671-8fdb9ff69140"
+    },
+    {
+      "start_time": 2147,
+      "end_time": 2149,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[inaudible] Now go."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6f0510ef-8cc4-4c76-a7b1-4b85775f6f23"
+    },
+    {
+      "start_time": 2262,
+      "end_time": 2273,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[Inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "36584fca-c1a5-4fed-9228-dc3c145df913"
+    },
+    {
+      "start_time": 2438,
+      "end_time": 2438,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Alright sing!"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "53691589-98fa-4ec1-b1df-d5c4402c5326"
+    },
+    {
+      "start_time": 2490,
+      "end_time": 2492,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Go ahead. Sing it again."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "68b7ca91-aff4-45e8-a4cb-b63df1fa9b54"
+    },
+    {
+      "start_time": 2508,
+      "end_time": 2508,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[Distortion]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "69aa2d76-ef6b-466b-922a-566991dd5640"
+    },
+    {
+      "start_time": 2673,
+      "end_time": 2673,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[Distortion]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "77652b6d-668f-47a3-9b88-f679c2f13122"
+    },
+    {
+      "start_time": 2720,
+      "end_time": 2720,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[Distortion]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "db1afabb-0a24-4f67-9887-9b9316f2d707"
+    },
+    {
+      "start_time": 2729,
+      "end_time": 2729,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "My name is Zora Neal Hurston. I was born in Eatonville"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b7c3068d-b073-4b68-b19f-99020cdd4f93"
+    },
+    {
+      "start_time": 2749,
+      "end_time": 2749,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "How long ago was that?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0175184e-bf96-4429-9354-beb24792027b"
+    },
+    {
+      "start_time": 2751,
+      "end_time": 2751,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "That was in 1930."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8d112660-70c7-46fb-967e-ef6f9b51228b"
+    },
+    {
+      "start_time": 2755,
+      "end_time": 2755,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "How did you happen to be going around getting songs?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "90c86f4c-f52c-42b9-805e-bd55d5537585"
+    },
+    {
+      "start_time": 2757,
+      "end_time": 2757,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I was collecting folk material for Columbia University as part of the Barnard College"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a83dde22-884f-4131-84b3-37dc860a23fe"
+    },
+    {
+      "start_time": 2765,
+      "end_time": 2765,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "What is the song called?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8e401ac6-f91b-4489-8b8a-dc2a884a2e15"
+    },
+    {
+      "start_time": 2766,
+      "end_time": 2766,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "They call it \"Gonna See my Long-haired Babe\" and it's a railroad spiking song and the rhythm is kept with a spike and a hammer."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "db137dfd-7e15-4a5e-9460-a3537dc1ac99"
+    },
+    {
+      "start_time": 2776,
+      "end_time": 2776,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Will you try to emphasize"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "56508867-bc06-4707-97b6-237f7a0aa064"
+    },
+    {
+      "start_time": 2782,
+      "end_time": 2782,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Yes"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "30b16ad5-8bc5-4281-ac31-6d1b3c79737b"
+    },
+    {
+      "start_time": 2883,
+      "end_time": 2883,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Let them hammers ring"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9f59dee4-f0a5-403a-ac62-1edc24c1fe7a"
+    },
+    {
+      "start_time": 2887,
+      "end_time": 2887,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I see you"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f7ef8282-be96-4589-a872-373a909dcbfe"
+    },
+    {
+      "start_time": 2894,
+      "end_time": 2894,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Uh"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4182fe9a-bb55-4af6-bd90-d67e15054ce4"
+    },
+    {
+      "start_time": 2902,
+      "end_time": 2902,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Immediately afterwards?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e35c87e4-06f2-4986-a504-e691b5084da0"
+    },
+    {
+      "start_time": 2903,
+      "end_time": 2903,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Yes"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "66c9a732-0eaa-42d8-abf0-3d7499d4f80b"
+    },
+    {
+      "start_time": 2906,
+      "end_time": 2906,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I see [strike"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f7335d15-23d6-45a5-84c8-c4ed283486ae"
+    },
+    {
+      "start_time": 2912,
+      "end_time": 2912,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "The minute that one goes down"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "eb2ae0c4-46ee-4483-90bf-43ab8c7122a7"
+    },
+    {
+      "start_time": 2916,
+      "end_time": 2916,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "And who does the singing?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "46c451ba-ae84-4867-8f8b-7e6c1814ee67"
+    },
+    {
+      "start_time": 2917,
+      "end_time": 2917,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "They sing in line. It's a man who doesn't work at all. And he walks up and down and gives the rhythm for the people to work."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "68b1faec-e430-4258-b933-ecda8f4acca9"
+    },
+    {
+      "start_time": 2925,
+      "end_time": 2925,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Is this for a whole crew of men?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8b48fb86-b629-4d38-9ac8-4d76727209ad"
+    },
+    {
+      "start_time": 2926,
+      "end_time": 2926,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "A whole crew of men singing this one time and the railroad has to pay the singing liner or else the men won't work."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f8a0fca0-caa7-42db-93c5-91a3c6138566"
+    },
+    {
+      "start_time": 2934,
+      "end_time": 2934,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "What I'm asking you is if you hear that you only hear the one man singing on a whole section of track."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "01deec4c-70f2-462c-9fa1-8c6d983a745e"
+    },
+    {
+      "start_time": 2940,
+      "end_time": 2940,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Not all the time"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9493e8ca-8266-43b1-8898-4af37be3e20d"
+    },
+    {
+      "start_time": 2948,
+      "end_time": 2948,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well now look"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a45395f6-58c0-48df-89eb-cf0418d1e65a"
+    },
+    {
+      "start_time": 2958,
+      "end_time": 2958,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c2aafee6-a6b5-469a-9a36-fa1bbeca1c4d"
+    },
+    {
+      "start_time": 2973,
+      "end_time": 2973,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "413a8353-3eca-4970-9471-908485442aa0"
+    },
+    {
+      "start_time": 2977,
+      "end_time": 2977,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Uh"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "007177c9-4215-4801-98ea-4ad30302695d"
+    },
+    {
+      "start_time": 2986,
+      "end_time": 2986,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Inaudible."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "616fcdb5-8fd3-422c-b278-3c0e057c856c"
+    },
+    {
+      "start_time": 2988,
+      "end_time": 2988,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I got this in 1935. I don't remember the man's name who sung it to me but I got it at Callahan. It's a railroad camp."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4307b456-ec52-43f5-9b9b-e6e4810d7e58"
+    },
+    {
+      "start_time": 2996,
+      "end_time": 2996,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "What kind of song is it?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d9a8d7c3-9d8f-4d28-8373-8f2634449c19"
+    },
+    {
+      "start_time": 2998,
+      "end_time": 2998,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "This is not exactly a song. It's a chant for the men lining. You know a railroad rail weighs 900 pounds and the men have to take these lining bars and get it in shape to spike it down. And while they're doing that why they have a chant that"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "84d66cfd-aec5-40f7-8619-3da9a2fe31e8"
+    },
+    {
+      "start_time": 3050,
+      "end_time": 3050,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I'd like you to do that again. But this time"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "73a96272-46bb-4dcf-bba7-cf5b40a057a1"
+    },
+    {
+      "start_time": 3055,
+      "end_time": 3055,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "They call it a lining bar."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ea54b28d-98c5-43d8-b5d5-e2a58215b171"
+    },
+    {
+      "start_time": 3056,
+      "end_time": 3056,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Alright. The lining bar. When they work but don't you hear the clink of it?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "319e8bbd-b402-402d-ac59-d0c63467431c"
+    },
+    {
+      "start_time": 3061,
+      "end_time": 3061,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "It's a 'hah'! Now you don't hear the lining bar because it's under the rail and they shove the rail with it."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4b1e1264-e3de-44f7-807a-40eb42339ac8"
+    },
+    {
+      "start_time": 3067,
+      "end_time": 3067,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "They hit against it?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e317d2bb-3b99-42a5-a3f2-537ff4bd3dd9"
+    },
+    {
+      "start_time": 3068,
+      "end_time": 3068,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "No"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "206fa4f3-d142-4aa5-ae6d-49aebc805e86"
+    },
+    {
+      "start_time": 3072,
+      "end_time": 3072,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Because over in Mississippi"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c8421c00-e6ad-4971-9e37-431a74c281f8"
+    },
+    {
+      "start_time": 3081,
+      "end_time": 3081,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "96d7960d-5064-4b7a-bc17-5585914d6d6f"
+    },
+    {
+      "start_time": 3090,
+      "end_time": 3090,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "cb0e0023-ea8f-4c79-b8ea-b3708dfd8139"
+    },
+    {
+      "start_time": 3092,
+      "end_time": 3092,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Pulling it backwards"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2ca30530-0787-41a4-be8b-840c1372b558"
+    },
+    {
+      "start_time": 3093,
+      "end_time": 3093,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "In other words"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2e9f0c52-84d4-4396-9b73-af1abfe06ceb"
+    },
+    {
+      "start_time": 3097,
+      "end_time": 3097,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "That's right. Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2c6b45f2-562f-4ae6-995f-175ca0d63f04"
+    },
+    {
+      "start_time": 3099,
+      "end_time": 3099,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Alright."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "32a1abf4-21cc-4af4-979f-c5b18ab2bc3e"
+    },
+    {
+      "start_time": 3100,
+      "end_time": 3100,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "And all the men"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2f811ac3-01f0-4c20-b786-772384bca328"
+    },
+    {
+      "start_time": 3102,
+      "end_time": 3102,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "About how many are there on a bar?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "69b37d26-45d2-4237-aed0-c2295a3726ef"
+    },
+    {
+      "start_time": 3103,
+      "end_time": 3103,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Oh"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "15d8d966-9321-406c-9eec-d36a786c3927"
+    },
+    {
+      "start_time": 3108,
+      "end_time": 3108,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Hmhm. Well"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "692707f1-f753-4241-937a-0050e6ef88a6"
+    },
+    {
+      "start_time": 3112,
+      "end_time": 3112,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Alright"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "86a00941-5b14-408a-a901-d1b066b5d5d7"
+    },
+    {
+      "start_time": 3113,
+      "end_time": 3113,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Or chant it."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8861908b-137b-4cad-bb14-f14019339aa0"
+    },
+    {
+      "start_time": 3142,
+      "end_time": 3142,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I got 'That Old Black Gal' is a spiking song that I got down there in Miami and was song by Max Ford the singing liner on this construction crew."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d04cf1cc-b055-419d-9656-2e0d9c3fee2c"
+    },
+    {
+      "start_time": 3153,
+      "end_time": 3153,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "What's it used for?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "729d21ba-8a3e-4789-a620-690762a8d332"
+    },
+    {
+      "start_time": 3154,
+      "end_time": 3154,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Used for spiking down the rails."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d86db867-6a80-42f9-a349-14f8711fac64"
+    },
+    {
+      "start_time": 3230,
+      "end_time": 3230,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "This song they called 'Shove it Over' and it's the lining rhythm pretty generally distributed all over Florida. It was sung to me by Charlie Jones on a railroad construction camp in Lakeland"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9dc864c5-8d27-4be7-83b4-95fba7c6a681"
+    },
+    {
+      "start_time": 3243,
+      "end_time": 3243,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "About how long ago?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4e58c684-20bb-4785-ac54-9f72ff04b84a"
+    },
+    {
+      "start_time": 3245,
+      "end_time": 3245,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Uh"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "12593858-ffdd-479e-865b-6cdfd6740c8c"
+    },
+    {
+      "start_time": 3360,
+      "end_time": 3360,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "This is again for lining?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "aedc1632-9570-4435-be34-e9fed86c45b9"
+    },
+    {
+      "start_time": 3362,
+      "end_time": 3362,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "This is a lining rhythm."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b07f8352-92d9-44d9-b5f1-5966e75caba1"
+    },
+    {
+      "start_time": 3362,
+      "end_time": 3365,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Now where is the movement?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "afa68a53-13d3-4b49-8edc-dcafb9e7fae5"
+    },
+    {
+      "start_time": 3365,
+      "end_time": 3371,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "When they say Shacka-lacka-lacka like they are getting ready to pull back and when they say 'heh' they shove the rail over."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3e9aca48-68e7-4698-8d0e-a8d978fd342e"
+    },
+    {
+      "start_time": 3371,
+      "end_time": 3375,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "In other words"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "aed7ae6f-f239-48e4-ae02-8b04be84c4d8"
+    },
+    {
+      "start_time": 3375,
+      "end_time": 3376,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Right a lot of rest in between."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "12033bcc-705a-4da9-af2e-a239b140bf1f"
+    },
+    {
+      "start_time": 3376,
+      "end_time": 3377,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "And a harder shove?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b597bf8d-c2a9-40fe-bedb-72499558357d"
+    },
+    {
+      "start_time": 3377,
+      "end_time": 3380,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "And a harder shove at the end. And they say 'heh'"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "18c25bfc-4fbc-4a4e-b98a-b3e9129f9ca8"
+    },
+    {
+      "start_time": 3380,
+      "end_time": 3385,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "It seems to have had a different effect from the other lining one you gave"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "abbcca64-cd41-4d50-906b-a71d388f84ff"
+    },
+    {
+      "start_time": 3385,
+      "end_time": 3395,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Yes"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8a212e5a-cb3d-4cb2-a77a-4f2ea0b9103f"
+    },
+    {
+      "start_time": 3395,
+      "end_time": 3438,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Uh"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "31ed6cec-5bff-40b0-b853-94fbc46e50ef"
+    },
+    {
+      "start_time": 3438,
+      "end_time": 3441,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0a6bedf3-11a7-4e9b-9cc3-b0fa29845362"
+    },
+    {
+      "start_time": 3441,
+      "end_time": 3444,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Their back is to the rail."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c5b23d78-ddc1-4824-bb6b-c1086b181d28"
+    },
+    {
+      "start_time": 3444,
+      "end_time": 3447,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "In other words"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9c296f36-0f09-4731-a4ea-66b1e0178e5b"
+    },
+    {
+      "start_time": 3447,
+      "end_time": 3452,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "They're pulling up on the bar. They don't have to look at the rail because that's the captain's job to see when it's right."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4d214380-7b25-45c2-a7ea-3041126f008e"
+    },
+    {
+      "start_time": 3452,
+      "end_time": 3455,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "07688866-64f4-4697-87a1-89ffcf427777"
+    },
+    {
+      "start_time": 3455,
+      "end_time": 3460,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "They just push the flange of this lining bar under the rail and then pull back on it."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "dbced173-b994-41b4-9201-de0e00ffb872"
+    },
+    {
+      "start_time": 3460,
+      "end_time": 3462,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Do they have to look back at it or do they just feel it?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c033b2f4-e771-4cfe-86fc-0565217bea05"
+    },
+    {
+      "start_time": 3462,
+      "end_time": 3469,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Oh"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "be9c0df2-07eb-43ff-9933-a5385db2274b"
+    },
+    {
+      "start_time": 3469,
+      "end_time": 3479,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3ca9620b-cd0d-4eaf-bcfc-2a043ac5a5ae"
+    },
+    {
+      "start_time": 3479,
+      "end_time": 3507,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "099e44f6-d0c5-457f-a4bc-0dc16282e65e"
+    },
+    {
+      "start_time": 3507,
+      "end_time": 3510,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "ZNH singing low."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0c2fac95-258f-4e5f-8824-3f8ef481f4e4"
+    },
+    {
+      "start_time": 3510,
+      "end_time": 3511,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Alright."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1bf4d58f-89b2-4d75-9c31-e1f791528594"
+    },
+    {
+      "start_time": 3511,
+      "end_time": 3530,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Alright"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a4529eb2-7454-4e46-beb5-11093e01ad0b"
+    },
+    {
+      "start_time": 0,
+      "end_time": 39,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Men singing"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7072220a-7b18-48f5-85ec-076160ea9f84"
+    },
+    {
+      "start_time": 61,
+      "end_time": 179,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Women singing"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "00ab110f-f7f8-4565-9a36-fd76e3f2b967"
+    },
+    {
+      "start_time": 183,
+      "end_time": 339,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Man singing"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "33cf3d43-fd5d-40e4-b27c-5a5996630108"
+    },
+    {
+      "start_time": 358,
+      "end_time": 517,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Men singing"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9e765db6-c3b4-4644-85ea-1b663b9db403"
+    },
+    {
+      "start_time": 523,
+      "end_time": 625,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Men singing"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "46c71439-3cb0-4b47-acaa-5706fa3faeab"
+    },
+    {
+      "start_time": 645,
+      "end_time": 685,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Instruments playing"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "953dc74a-8cfd-461f-821e-25aa703a0d79"
+    },
+    {
+      "start_time": 685,
+      "end_time": 696,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Man singing with instruments"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "90588720-b08a-4f40-b488-ac5147c9f652"
+    },
+    {
+      "start_time": 696,
+      "end_time": 770,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Instruments playing"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "bf0b4efb-3ebc-49c9-ba06-8830b8f0c8cd"
+    },
+    {
+      "start_time": 770,
+      "end_time": 781,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Man singing with instruments"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ee0a949e-692c-4074-b5af-497676263367"
+    },
+    {
+      "start_time": 781,
+      "end_time": 789,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Instruments playing"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c4064d02-4be2-4e4c-98f7-4f0b21de8c09"
+    },
+    {
+      "start_time": 801,
+      "end_time": 824,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Instruments playing"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1641a414-72bc-43a8-a065-72a727c4512d"
+    },
+    {
+      "start_time": 824,
+      "end_time": 836,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Man and woman singing with instruments"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6141b9c2-24a7-4a4d-9d0d-b6389e96a22d"
+    },
+    {
+      "start_time": 836,
+      "end_time": 871,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Instruments playing"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d3238bc1-78cc-44f4-b4bb-6a3118f7c7f6"
+    },
+    {
+      "start_time": 871,
+      "end_time": 884,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Man and woman singing with instruments"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "00744d82-a160-4f73-bc01-b5f8eb0ca688"
+    },
+    {
+      "start_time": 884,
+      "end_time": 929,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Instruments playing"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1754a17c-d7cf-4a59-a845-9b3244a0c926"
+    },
+    {
+      "start_time": 949,
+      "end_time": 1078,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Women singing"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9aa8191e-b05f-41d0-b8d7-c52deeba9139"
+    },
+    {
+      "start_time": 1086,
+      "end_time": 1224,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Women singing"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a944a583-d923-42b5-a270-92b7d447970b"
+    },
+    {
+      "start_time": 1232,
+      "end_time": 1404,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Women singing"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f60a5c4c-0258-4871-b3a2-be6b5a8a5132"
+    },
+    {
+      "start_time": 1412,
+      "end_time": 1449,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Instruments playing"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "876b4fc4-3834-48a8-8b67-701236d50708"
+    },
+    {
+      "start_time": 1449,
+      "end_time": 1453,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Man singing with instruments"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "66f173dd-30ce-45f2-9465-7c30e119c991"
+    },
+    {
+      "start_time": 1453,
+      "end_time": 1472,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Instruments playing"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "848e5541-9d21-480e-86dc-4db8518b318a"
+    },
+    {
+      "start_time": 1472,
+      "end_time": 1476,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Man singing with instruments"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b132599b-35fd-4cd5-81b8-ebd189c5ba16"
+    },
+    {
+      "start_time": 1476,
+      "end_time": 1484,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Instruments playing"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0f42fd4b-85a5-4274-9e99-cabadd79a11e"
+    },
+    {
+      "start_time": 1484,
+      "end_time": 1488,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Man singing with instruments"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5cb03d53-3e61-48cf-a0e1-4179cb90a41b"
+    },
+    {
+      "start_time": 1488,
+      "end_time": 1508,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Instruments playing"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5802c971-4cc5-46c1-ae00-b56925d2d6e6"
+    },
+    {
+      "start_time": 1519,
+      "end_time": 1604,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Instruments playing"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6e6cb463-5860-48fb-9015-f9d421fdea3c"
+    },
+    {
+      "start_time": 1607,
+      "end_time": 1666,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Instruments playing"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2d66582c-58c3-49ab-a5ba-9eb0aa670abb"
+    },
+    {
+      "start_time": 1680,
+      "end_time": 1865,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Man singing"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "da77ef66-af7a-490e-a00e-a1421f22e062"
+    },
+    {
+      "start_time": 1871,
+      "end_time": 1969,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Man singing"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "efca0581-fcfc-45df-a60e-0cb16ad8b40a"
+    },
+    {
+      "start_time": 1980,
+      "end_time": 2139,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Woman singing with ukulele"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d0378a05-2da4-4be2-bff3-69a23a7d7de2"
+    },
+    {
+      "start_time": 2149,
+      "end_time": 2247,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Woman singing"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1eee60ad-82a3-4f4f-9e03-86971468bc32"
+    },
+    {
+      "start_time": 2273,
+      "end_time": 2432,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Woman singing"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5bffc6ae-931e-49b9-99eb-16d1f82db017"
+    },
+    {
+      "start_time": 2440,
+      "end_time": 2487,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Children singing and clapping"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "174d2303-3b5f-4da4-8ff7-dbaeb67b39a9"
+    },
+    {
+      "start_time": 2492,
+      "end_time": 2492,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Children singing and clapping"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "eba577c6-4214-47c4-bc22-38164f0ccaec"
+    },
+    {
+      "start_time": 2565,
+      "end_time": 2565,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Men singing"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "213d02a7-1096-42a4-90c1-af60ee966fca"
+    },
+    {
+      "start_time": 2787,
+      "end_time": 2787,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "ZNH sings 'Gonna See My Long-Haired Babe'"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7cff0d86-41c1-44cd-b330-2cd4ae52ff04"
+    },
+    {
+      "start_time": 3028,
+      "end_time": 3028,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "ZNH chants 'Let's Shake It'"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5bc91f94-4a71-4d10-be8f-abdd6a8891d1"
+    },
+    {
+      "start_time": 3116,
+      "end_time": 3116,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "ZNH chants 'Let's Shake It'"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7811b118-121b-4b0d-a004-9e96d24351f9"
+    },
+    {
+      "start_time": 3157,
+      "end_time": 3157,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "ZNH chants 'That Old Black Gal'"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c167bf52-cd11-4718-9f43-599f2d420984"
+    },
+    {
+      "start_time": 3251,
+      "end_time": 3251,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "ZNH sings 'Shove it over'"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "19c8ebae-5412-4726-b8fb-480af26ceb01"
+    },
+    {
+      "start_time": 47,
+      "end_time": 51,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "2714 B1 and 2"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6c641af3-fde5-44d2-9455-01155f8b180c"
+    },
+    {
+      "start_time": 340,
+      "end_time": 343,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "2715 A1 and 2"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3a4c590f-7ccc-4732-a091-4de304201723"
+    },
+    {
+      "start_time": 637,
+      "end_time": 640,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "2715 B1 and 2"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "fdcefece-a8f8-4126-b78c-8cddb21d42b6"
+    },
+    {
+      "start_time": 935,
+      "end_time": 938,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "2716 A1 and 2"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7806a562-7ed1-4fdc-ae23-b361e978ee62"
+    },
+    {
+      "start_time": 1225,
+      "end_time": 1228,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "2716 B1"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6db18c85-cfc0-4f03-a680-8a42d3dd8c8a"
+    },
+    {
+      "start_time": 1407,
+      "end_time": 1411,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "2717 A1"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "339553db-dcd8-409c-b6c2-a136a008899c"
+    },
+    {
+      "start_time": 1668,
+      "end_time": 1672,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "2717 B1 and 2"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e62fc020-e491-4243-b55e-d59ed0991021"
+    },
+    {
+      "start_time": 1972,
+      "end_time": 1976,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "2718 A1 and 2"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "dad390bd-38cd-4e93-be04-babc841750b4"
+    },
+    {
+      "start_time": 2256,
+      "end_time": 2260,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "2718 B1"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "56d5d817-c510-40ce-9eba-9151fa9e0559"
+    },
+    {
+      "start_time": 2541,
+      "end_time": 2543,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "2720 A1 and 2"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5d69abf6-eca2-4e8e-ac25-ed60a43d6a56"
+    },
+    {
+      "start_time": 2725,
+      "end_time": 2727,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "3135 A"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3479093d-b8fa-4e9d-b7ab-dab213d277d0"
+    },
+    {
+      "start_time": 2968,
+      "end_time": 2968,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "3135 B1 and 2"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1a0d5d9c-464a-44be-b519-e8d059c6e26e"
+    },
+    {
+      "start_time": 3227,
+      "end_time": 3227,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "3136 A"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "36967541-8ffc-4b0c-a396-a61fc5aca4b3"
+    },
+    {
+      "start_time": 3497,
+      "end_time": 3502,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "3136 B"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "84b04f7e-6511-411b-a2ef-b1561c142db4"
+    }
+  ],
   "set": "Default",
   "event_id": "c6efaa2e-c0f0-4c6e-8c36-b6e7b14253fb",
   "source_id": "3118cafa-50a9-4ed0-b17f-bee90e9488e0"
