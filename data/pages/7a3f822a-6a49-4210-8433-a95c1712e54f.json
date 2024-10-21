@@ -345,7 +345,7 @@
       ]
     }
   ],
-  "title": "Introduction",
+  "title": "Intro",
   "parent": "596e2eb9-93e0-410c-a1ca-3b6b8d1ec26b",
   "autogenerate": {
     "enabled": false,
@@ -353,6 +353,7 @@
   },
   "created_at": "2024-09-18T20:15:44.871Z",
   "created_by": "tanyaclement",
-  "updated_at": "2024-10-21T19:34:19.489Z",
-  "updated_by": "tanyaclement"
+  "updated_at": "2024-10-21T19:35:34.683Z",
+  "updated_by": "tanyaclement",
+  "slug": "intro"
 }
