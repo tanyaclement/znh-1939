@@ -4,11 +4,11 @@
   "created_by": "tanyaclement",
   "title": "Field Recordings T86-243",
   "slug": "field-recordings-t86-243",
-  "updated_at": "2024-11-01T12:16:49.051Z",
+  "updated_at": "2024-11-01T18:15:33.477Z",
   "updated_by": "tanyaclement",
   "parent": "287c3732-be2f-4d3a-9f75-1e8cd3572e34",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "0b90bba6-7566-4638-af51-2f357335cf24"
   }
