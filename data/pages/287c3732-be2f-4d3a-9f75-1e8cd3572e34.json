@@ -59,7 +59,8 @@
                 {
                   "text": " collection from the Florida Memory Project."
                 }
-              ]
+              ],
+              "align": "center"
             }
           ]
         },
@@ -69,7 +70,7 @@
             {
               "type": "image",
               "url": "https://github.com/tanyaclement/znh_jacksonville_1939-1/assets/1213771/e5b95e0e-40ef-42fe-8946-feb54168adb0",
-              "size": "large",
+              "size": "medium",
               "children": [
                 {
                   "text": ""
@@ -83,7 +84,8 @@
                 {
                   "text": ""
                 }
-              ]
+              ],
+              "align": "center"
             },
             {
               "type": "paragraph",
@@ -110,7 +112,7 @@
   "created_at": "2024-11-01T12:10:32.877Z",
   "created_by": "tanyaclement",
   "title": "Home",
-  "updated_at": "2024-11-11T23:38:10.860Z",
+  "updated_at": "2024-11-12T02:35:27.399Z",
   "updated_by": "tanyaclement",
   "autogenerate": {
     "enabled": false,
