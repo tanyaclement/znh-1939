@@ -35,7 +35,7 @@
               ]
             },
             {
-              "type": "block-quote",
+              "type": "paragraph",
               "children": [
                 {
                   "text": "Transcription and annotations by "
@@ -112,7 +112,7 @@
   "created_at": "2024-11-01T12:10:32.877Z",
   "created_by": "tanyaclement",
   "title": "Home",
-  "updated_at": "2024-11-12T15:51:42.653Z",
+  "updated_at": "2024-11-18T19:13:40.774Z",
   "updated_by": "tanyaclement",
   "autogenerate": {
     "enabled": false,
