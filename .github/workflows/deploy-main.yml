@@ -32,26 +32,9 @@ jobs:
           prefix: project
 
       - name: Checkout project-client
-        if: ${{ env.project_project_media_player == 'avannotate' }}
         uses: actions/checkout@v4
         with:
           repository: AVAnnotate/project-client
-          path: "./client"
-          ref: ${{vars.PROJECT_CLIENT_BRANCH || 'main'}}
-
-      - name: Checkout aviary-client
-        if: ${{ env.project_project_media_player == 'aviary' }}
-        uses: actions/checkout@v4
-        with:
-          repository: AVAnnotate/avaiary-client
-          path: "./client"
-          ref: ${{vars.PROJECT_CLIENT_BRANCH || 'main'}}
-
-      - name: Checkout universal-client
-        if: ${{ env.project_project_media_player == 'universal' }}
-        uses: actions/checkout@v4
-        with:
-          repository: AVAnnotate/universal-client
           path: "./client"
           ref: ${{vars.PROJECT_CLIENT_BRANCH || 'main'}}
 
@@ -60,19 +43,15 @@ jobs:
         run: npm install
 
       - name: Ensure a content directory
-        if: ${{ env.project_project_media_player == 'avannotate' }}
         run: mkdir -p "./client/src/content"
 
       - name: Copy data to content directory
-        if: ${{ env.project_project_media_player == 'avannotate' }}
         run: cp -r ./data/* ./client/src/content
 
       - name: Make a project directory if it does not exist
-        if: ${{ env.project_project_media_player == 'avannotate' }}
         run: mkdir -p "./client/src/content/project"
 
       - name: Move project.json file to project directory
-        if: ${{ env.project_project_media_player == 'avannotate' }}
         run: mv ./client/src/content/project.json ./client/src/content/project/project.json
 
       - name: Copy any VTT files to public
@@ -114,5 +93,5 @@ jobs:
           git config user.email "gitbot@avannotate.com"
           git config user.name "GitHub Action Bot"
           git add ./site
-          git commit -m 'Created offline site'
+          git diff-index --quiet HEAD || git commit -m 'Created offline site'
           git push
