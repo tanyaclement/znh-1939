@@ -104,7 +104,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The following discusses the audible context of each recording."
+          "text": "Audible Context",
+          "bold": true
         }
       ]
     },
@@ -340,6 +341,6 @@
   "slug": "introduction",
   "created_at": "2024-11-03T20:32:26.207Z",
   "created_by": "tanyaclement",
-  "updated_at": "2024-11-21T19:03:21.888Z",
+  "updated_at": "2025-01-02T14:37:34.652Z",
   "updated_by": "tanyaclement"
 }
