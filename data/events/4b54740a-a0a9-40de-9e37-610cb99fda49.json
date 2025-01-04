@@ -13,7 +13,12 @@
   "label": "Field Recordings T86-244",
   "description": [
     {
-      "text": "Zora Neale Hurston's WPA field recordings in Jacksonville, FL made for the Library of Congress on June 18, 1939 with Herbert Halpert. This recording is available on the  https://www.floridamemory.com/items/show/238022 Florida Memory Project."
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Zora Neale Hurston's WPA field recordings in Jacksonville, FL made for the Library of Congress on June 18, 1939 with Herbert Halpert. This recording is available on the  https://www.floridamemory.com/items/show/238022 Florida Memory Project."
+        }
+      ]
     }
   ],
   "created_at": "2024-11-01T12:16:48.894Z",
