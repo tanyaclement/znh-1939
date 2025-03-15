@@ -108,10 +108,45 @@
               ]
             },
             {
-              "type": "paragraph",
+              "type": "numbered-list",
               "children": [
                 {
-                  "text": ""
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Things in a numbered list"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Things in a numbered list",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Things in a bulleted list"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Things in a bulleted list"
+                    }
+                  ]
                 }
               ]
             }
@@ -129,7 +164,7 @@
                   "text": ""
                 }
               ],
-              "align": "center"
+              "align": "right"
             },
             {
               "type": "paragraph",
@@ -171,6 +206,73 @@
         }
       ],
       "align": "right"
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "numbered-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Things in a numbered list"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Things in a numbered list"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Things in a bulleted list"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Things in a bulleted list"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -216,7 +318,7 @@
   "created_at": "2024-11-01T12:10:32.877Z",
   "created_by": "tanyaclement",
   "title": "Home",
-  "updated_at": "2025-03-15T14:54:25.895Z",
+  "updated_at": "2025-03-15T15:09:45.972Z",
   "updated_by": "tanyaclement",
   "autogenerate": {
     "enabled": false,
