@@ -60,6 +60,60 @@
                   "text": " collection from the Florida Memory Project."
                 }
               ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "What is this?",
+                  "code": true
+                },
+                {
+                  "text": " slash"
+                }
+              ]
+            },
+            {
+              "type": "block-quote",
+              "children": [
+                {
+                  "text": "What is this? quote"
+                }
+              ]
+            },
+            {
+              "type": "block-quote",
+              "children": [
+                {
+                  "text": "Red letters",
+                  "color": "#771308"
+                }
+              ]
+            },
+            {
+              "type": "block-quote",
+              "children": [
+                {
+                  "color": "#771308",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "table-of-contents",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
             }
           ]
         },
@@ -90,12 +144,63 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "\"Zora Neale Hurston Poses from a Crow Dance,\" by Prentiss Taylor, Beinecke Rare Book & Manuscript Library, 1935"
+                  "text": "\"Zora Neale Hurston Poses from a Crow Dance,\" by Prentiss Taylor, Beinecke Rare Book & Manuscript Library, 1935",
+                  "highlight": "#3c9f58"
                 }
               ],
               "align": "center"
             }
           ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "What happens when you are out of the box. "
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "What happens when you are out of the box. "
+        }
+      ],
+      "align": "right"
+    },
+    {
+      "type": "paragraph",
+      "align": "right",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event-comparison",
+      "includes": [
+        "media"
+      ],
+      "event1": {
+        "uuid": "8c1ba942-1347-4dc3-ac4c-57cfd1338e6c",
+        "start": 130,
+        "end": 135,
+        "file": "40c5917d-7166-4c6f-bbb0-becdc5f4b470"
+      },
+      "event2": {
+        "uuid": "0b90bba6-7566-4638-af51-2f357335cf24",
+        "start": 1210,
+        "end": 135,
+        "file": "ba5ebe9f-110a-4f48-9640-e34e2a2d156b"
+      },
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -111,7 +216,7 @@
   "created_at": "2024-11-01T12:10:32.877Z",
   "created_by": "tanyaclement",
   "title": "Home",
-  "updated_at": "2025-01-03T19:13:41.361Z",
+  "updated_at": "2025-03-15T14:54:25.895Z",
   "updated_by": "tanyaclement",
   "autogenerate": {
     "enabled": false,
