@@ -343,10 +343,10 @@
   "created_at": "2024-11-01T12:10:32.877Z",
   "created_by": "tanyaclement",
   "title": "Home",
-  "updated_at": "2025-03-15T15:47:45.285Z",
+  "updated_at": "2025-03-31T20:40:54.049Z",
   "updated_by": "tanyaclement",
   "autogenerate": {
-    "enabled": false,
+    "enabled": true,
     "type": "home"
   },
   "slug": "home"
