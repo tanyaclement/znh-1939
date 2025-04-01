@@ -4,8 +4,17 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Preferred citation",
-          "bold": true
+          "text": " Tanya Clement",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Preferred citation"
         }
       ]
     },
@@ -333,6 +342,6 @@
   "slug": "introduction",
   "created_at": "2024-11-03T20:32:26.207Z",
   "created_by": "tanyaclement",
-  "updated_at": "2025-01-16T19:47:08.385Z",
+  "updated_at": "2025-04-01T17:23:10.849Z",
   "updated_by": "tanyaclement"
 }
