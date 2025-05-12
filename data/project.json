@@ -13,16 +13,10 @@
     "language": "en",
     "slug": "znh-1939",
     "creator": "tanyaclement",
-    "authors": "Tanya Clement",
+    "authors": "Tanya Clement and Alyssa Frick-Jenkins",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
-    "additional_users": [
-      {
-        "login_name": "Alyssaf-j",
-        "avatar_url": "https://avatars.githubusercontent.com/u/181769394?v=4",
-        "admin": false
-      }
-    ],
+    "additional_users": [],
     "tags": {
       "tagGroups": [
         {
@@ -162,7 +156,7 @@
       ]
     },
     "created_at": "2024-11-01T12:10:32.869Z",
-    "updated_at": "2025-05-12T22:09:20.632Z",
+    "updated_at": "2025-05-12T22:09:45.633Z",
     "generate_pages_site": true
   },
   "is_private": false
