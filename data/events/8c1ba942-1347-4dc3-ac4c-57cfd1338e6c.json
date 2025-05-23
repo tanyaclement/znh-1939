@@ -3,7 +3,7 @@
     "40c5917d-7166-4c6f-bbb0-becdc5f4b470": {
       "label": "S1576 , T86-245",
       "is_offline": false,
-      "file_url": "/media/T86-245.mp3",
+      "file_url": "https://ia801304.us.archive.org/11/items/WPA_1939_Jacksonville_Halpert/T86-245.mp3",
       "duration": 3494
     }
   },
@@ -30,7 +30,7 @@
   ],
   "created_at": "2024-11-01T12:16:48.894Z",
   "created_by": "tanyaclement",
-  "updated_at": "2025-05-23T17:22:20.255Z",
+  "updated_at": "2025-05-23T17:38:23.984Z",
   "updated_by": "tanyaclement",
   "av_file_order": [
     "40c5917d-7166-4c6f-bbb0-becdc5f4b470"
