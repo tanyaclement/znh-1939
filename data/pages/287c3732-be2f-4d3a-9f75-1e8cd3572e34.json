@@ -67,15 +67,18 @@
                   "text": ""
                 }
               ],
-              "scale": 63
+              "scale": 63,
+              "align": "center"
             },
             {
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Image from collections of Yale University Library"
+                  "text": "Image from collections of Yale University Library",
+                  "link": "https://onlineexhibits.library.yale.edu/s/gatheroutofstardust/item/12249#?c=&m=&s=&cv=&xywh=-1007%2C0%2C3738%2C2342"
                 }
-              ]
+              ],
+              "align": "center"
             }
           ]
         }
@@ -102,7 +105,7 @@
   "created_at": "2024-11-01T12:10:32.877Z",
   "created_by": "tanyaclement",
   "title": "Home",
-  "updated_at": "2025-06-30T20:44:49.616Z",
+  "updated_at": "2025-06-30T20:48:58.456Z",
   "updated_by": "tanyaclement",
   "autogenerate": {
     "enabled": false,
