@@ -89,6 +89,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Possibly because publishing timestamped annotations is ordinarily prohibitive and with a desire to make Hurston’s recordings more accessible, the Florida Memory project has extracted and made available a playlist called “Dust Tracks” of 21 brief tracks that only include the moments when Hurston sings and talks from these longer recordings. This scholarly edition, in contrast, facilitates finding the points in time where Hurston sings and talks within the context of the longer recording. The edition provides both a transcript and time-stamped annotations to Hurston’s performances as well as to the work songs and stories performed on the same recording by others in the office that day."
         }
       ]
@@ -447,6 +455,6 @@
   "slug": "introduction",
   "created_at": "2024-11-03T20:32:26.207Z",
   "created_by": "tanyaclement",
-  "updated_at": "2025-10-07T16:38:37.108Z",
+  "updated_at": "2025-10-07T19:26:53.705Z",
   "updated_by": "tanyaclement"
 }
